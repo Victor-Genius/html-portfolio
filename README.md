@@ -1,1 +1,2 @@
-# html-portfolio
+# newPortfolio
+Fully animated portfolio
